@@ -49,7 +49,7 @@ pip install whylogs
 
 ### From the source 
 
-- Download the source code by cloning the repository or by pressing [Download ZIP](https://github.com/whylabs/whylogs-python/archive/master.zip) on this page. 
+- Download the source code by cloning the repository or by pressing [Download ZIP](https://github.com/whylabs/whylogs/archive/refs/tags/v0.6.6.zip) on this page. 
 
 - You'll need to install poetry in order to install dependencies using the lock file in this project. Follow [their docs](https://python-poetry.org/docs/) to get it set up.
 
